@@ -4,7 +4,7 @@ Dotfiles for an i3-gaps rice I've made
 ## WM
 [i3-gaps](https://github.com/Airblader/i3)
 
-Configuration files are located in .i3/config. It should be possible to just replace the .i3 folder in your home directory with this one after i3-gaps is installed.
+Configuration files are located in .i3/config. It should be possible to just replace the .i3 folder in your home directory with this one after i3-gaps is installed. All edits I've made to the file are located at the very end of the file after `# Personal edits`.
 
 ## Text editor
 Vim
