@@ -14,7 +14,7 @@ Configuration with syntax highlighting available in .vimrc. Just put this file i
 ## Shell
 ZSH
 
-Configuration with custom prompt available in .zshrc. Just put this file in your home folder.
+Configuration with custom prompt available in .zshrc. To use the custom prompt, append the contents of this file to your existing .zshrc, or replace the line defining your prompt in your .zshrc.
 
 ## Images
 
