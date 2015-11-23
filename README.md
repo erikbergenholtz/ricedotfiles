@@ -1,4 +1,4 @@
-# ricedotfiles
+# Dotfiles for i3-gaps rice
 Dotfiles for an i3-gaps rice I've made
 
 ## WM
@@ -6,7 +6,7 @@ Dotfiles for an i3-gaps rice I've made
 
 Configuration files are located in .i3/config. It should be possible to just replace the .i3 folder in your home directory with this one after i3-gaps is installed.
 
-## Texteditor
+## Text editor
 Vim
 
 Configuration with syntax highlighting available in .vimrc. Just put this file in your home folder.
